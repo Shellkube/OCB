@@ -2,7 +2,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name' : 'Analytic Accounting-check3',
+    'name' : 'Analytic Accounting-check4',
     'version': '1.1',
     'category': 'Accounting/Accounting',
     'depends' : ['base', 'mail', 'uom'],
